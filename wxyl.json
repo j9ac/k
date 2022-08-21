@@ -1,5 +1,9 @@
 {
-  "http_url": "https://api.yjraa.xyz",
-  "static_url": "https://api.yjraa.xyz",
-  "socket_url": "wss://wsapi.yjraa.xyz"
+  "statusCode": 200,
+  "data": {
+    "http_url": "https://api.yjraa.xyz",
+    "static_url": "https://api.yjraa.xyz",
+    "socket_url": "wss://wsapi.yjraa.xyz"
+  },
+  "msg": "success"
 }
