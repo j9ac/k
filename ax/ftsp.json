@@ -1,6 +1,6 @@
 {
-  "errCode": 0,
-  "errMsg": "success",
+  "code": 1,
+  "msg": "success",
   "data": {
     "httpUrl": "https://api.jh88e.com",
     "wsUrl": "wss://api.jh88e.com"
