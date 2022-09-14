@@ -2,7 +2,7 @@
   "errCode": 0,
   "errMsg": "success",
   "data": {
-    "https": "https://api.jh88e.com",
-    "wss": "wss://api.jh88e.com"
+    "httpUrl": "https://api.jh88e.com",
+    "wsUrl": "wss://api.jh88e.com"
   }
 }
