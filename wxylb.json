@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "body": {
+    "http_url": "https://napi.jh66t.com",
+    "static_url": "https://nimg.jh66t.com",
+    "socket_url": "wss://napi.jh66t.com"
+  },
+  "msg": "success"
+}
